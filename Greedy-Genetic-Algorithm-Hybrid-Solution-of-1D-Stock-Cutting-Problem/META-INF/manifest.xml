@@ -3,6 +3,8 @@
  <manifest:file-entry manifest:full-path="/" manifest:version="1.2" manifest:media-type="application/vnd.oasis.opendocument.text"/>
  <manifest:file-entry manifest:full-path="Thumbnails/thumbnail.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="layout-cache" manifest:media-type="application/binary"/>
+ <manifest:file-entry manifest:full-path="Pictures/100002010000025800000258D2104E2B0152C261.png" manifest:media-type="image/png"/>
+ <manifest:file-entry manifest:full-path="Pictures/10000201000002580000025809D6A5C0EA18E20F.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="Pictures/100002010000019A000001C636A23851B1FAD419.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="Pictures/10000201000001B8000001F4F3B3E00C50C0A9B7.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="content.xml" manifest:media-type="text/xml"/>
